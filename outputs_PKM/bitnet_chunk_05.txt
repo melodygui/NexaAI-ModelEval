@@ -1,0 +1,78 @@
+
+Based on the given text, here are the PDF reports related to 'AI for Work':
+
+**PDF Report 1: PT Session 2 Receipt (January 18).pdf**
+- Date of Service: January 18, 2024
+- Time: 2:00 PM - 2:45 PM
+- Patient: Tomer Cohen
+- PT ID: PT-10542
+- Insurance: BlueCross BlueShield
+- Member ID: BC78903421
+- Physical Therapist: Sarah Johnson, PT, DPT
+- NPI: 1762958423
+- Services Provided:
+  - Therapeutic Exercise: (2 units) $130.00
+  - Manual Therapy: (1 unit) $65.00
+  - Electrical Stimulation: (Unattended) $45.00
+- Diagnosis: M75.100 - Rotator cuff syndrome, right shoulder
+- Referential Physician: Angela Chen, MD
+- Payments:
+  - Method: Credit Card (Visa ending 4352) $45.00
+  - Date of Service: January 18, 2024
+  - Authorization: (895743) (Computer-generated document)
+- Results Delivery: Fax report to (415) 555-8001
+- Preferred Facility: City Imaging Center
+- Signature: Angela Chen, MD
+- Date: February 7, 2024
+
+**PDF Report 2: MRI Referral (February 7).pdf**
+- Date of Service: February 7, 2024
+- Patient Information: Name: Tomer Cohen
+- DOB: 05/14/1985
+- Chart#: ORT-2024-8761
+- Insurance: BlueCross BlueShield
+- Member ID: BC78903421
+- Group Number: 12876543
+- Examination Ordered: MRI RIGHT SHOULDER WITHOUT CONTRAST
+- Clinical History: 28-year-old male with 10-week history of right shoulder pain. Initial diagnosis of rotator cuff tendinitis. Has completed 6 PT sessions with only modest improvement. Physical exam suggestive of possible partial rotator cuff tear. Specific Concerns: Rule out partial or full thickness rotator cuff tear. Evaluate for subacromial impingement and assess labrum integrity.
+- Results Delivery: Fax report to (415) 555-8001
+- Preferred Facility: City Imaging Center
+- Signature: Angela Chen, MD
+- Date: February 7, 2024
+
+**PDF Report 3: MRI Referral (February 7).pdf**
+- Date of Service: February 7, 2024
+- Patient Information: Name: Tomer Cohen
+- DOB: 05/14/1985
+- Chart#: ORT-2024-8761
+- Insurance: BlueCross BlueShield
+- Member ID: BC78903421
+- Group Number: 12876543
+- Examination Ordered: MRI RIGHT SHOULDER WITHOUT CONTRAST
+- Clinical History: 28-year-old male with 10-week history of right shoulder pain. Initial diagnosis of rotator cuff tendinitis. Has completed 6 PT sessions with only modest improvement. Physical exam suggestive of possible partial rotator cuff tear. Specific Concerns: Rule out partial or full thickness rotator cuff tear. Evaluate for subacromial impingement and assess labrum integrity.
+- Results Delivery: Fax report to (415) 555-8001
+- Preferred Facility: City Imaging Center
+- Signature: Angela Chen, MD
+- Date: February 7, 2024
+
+**PDF Report 4: MRI Referral (February 7).pdf**
+- Date of Service: February 7, 2024
+- Patient Information: Name: Tomer Cohen
+- DOB: 05/14/1985
+- Chart#: ORT-2024-8761
+- Insurance: BlueCross BlueShield
+- Member ID: BC78903421
+- Group Number: 12876543
+- Examination Ordered: MRI RIGHT SHOULDER WITHOUT CONTRAST
+- Clinical History: 28-year-old male with 10-week history of right shoulder pain. Initial diagnosis of rotator cuff tendinitis. Has completed 6 PT sessions with only modest improvement. Physical exam suggestive of possible partial rotator cuff tear. Specific Concerns: Rule out partial or full thickness rotator cuff tear. Evaluate for subacromial impingement and assess labrum integrity.
+- Results Delivery: Fax report to (415) 555-8001
+- Preferred Facility: City Imaging Center
+- Signature: Angela Chen, MD
+- Date: February 7, 2024
+
+**PDF Report 5: MRI Referral (February 7).pdf**
+- Date of Service: February 7, 2024
+- Patient Information: Name: Tomer Cohen
+- DOB: 05/14/1985
+- Chart#: ORT
+
